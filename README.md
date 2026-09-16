@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Priyanshu Singh
 
-💻 Frontend Developer | 🎯 Passionate Coder | 🌐 Web Tech Enthusiast
+💻 Fullstack Developer | 🎯 Passionate Coder | 🌐 Web Tech Enthusiast
 
-I'm a frontend developer who enjoys building responsive, scalable, and accessible user interfaces. I work mostly with **React**, **Next.js**, **Tailwind CSS**, and other modern web technologies. Currently learning backend and contributing to full-stack projects.
+I'm a fullstack developer who enjoys building responsive, scalable, and accessible user interfaces. I work mostly with **React**, **Next.js**, **Tailwind CSS**, and other modern web technologies. Currently learning backend and contributing to full-stack projects.
 
 ---
 
